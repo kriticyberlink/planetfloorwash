@@ -27,8 +27,8 @@ DB_PASSWORD=a8]dacoC%@XM
 MAIL_DRIVER=sendmail
 MAIL_HOST=smtp.googlemail.com
 MAIL_PORT=465
-MAIL_USERNAME=kriticyberlink@gmail.com	
-MAIL_PASSWORD=Imdead1234
+MAIL_USERNAME=	
+MAIL_PASSWORD=
 MAIL_ENCRYPTION=ssl
 
 
